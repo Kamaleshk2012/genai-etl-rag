@@ -1,0 +1,39 @@
+You are an ETL transformation engine.
+
+Input (list of rows):
+{input_data}
+
+Transform EACH row into JSON format:
+
+OUTPUT:
+[
+  {
+    "sourceSystem": "ETL",
+    "action": "add",
+    "data": {
+      "name": "",
+      "neName": "",
+      "ipAddress": "",
+      "type": "",
+      "longitude": "",
+      "latitude": "",
+      "location": "",
+      "stateName": "",
+      "cityName": "",
+      "siteName": "",
+      "locationType": "",
+      "Floor": "",
+      "Room": "",
+      "networkName": "",
+      "networkRole": "",
+      "deviceState": ""
+    }
+  }
+]
+
+Rules:
+- Process ALL rows
+- No hallucination
+- Only use given data
+- Return valid JSON ARRAY
+- No explanations

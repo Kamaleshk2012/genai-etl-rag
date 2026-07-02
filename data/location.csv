@@ -1,0 +1,501 @@
+id,location,longitude,latitude,state,city,site,location_type
+1,LOC-IL-001,-87.7723,41.8106,Illinois,Chicago,Site-H,Towers
+2,LOC-CA-001,-117.1081,32.8334,California,San Diego,Site-C,Warehouse
+3,LOC-TX-001,-96.9381,32.6923,Texas,Dallas,Site-Q,Building
+4,LOC-CT-001,-72.7754,41.8087,Connecticut,Hartford,Site-R,Warehouse
+5,LOC-MA-001,-71.0741,42.2936,Massachusetts,Boston,Site-A,Towers
+6,LOC-IN-001,-86.206,39.665,Indiana,Indianapolis,Site-Y,Room
+7,LOC-CA-002,-117.2833,32.5947,California,San Diego,Site-L,Office
+8,LOC-TX-002,-96.7281,32.7876,Texas,Dallas,Site-M,Cabinet
+9,LOC-CT-002,-72.7471,41.8023,Connecticut,Hartford,Site-L,Data Center
+10,LOC-CA-003,-118.38,33.9706,California,Los Angeles,Site-J,Cabinet
+11,LOC-MA-002,-70.949,42.3241,Massachusetts,Boston,Site-O,Room
+12,LOC-FL-001,-80.2307,25.6746,Florida,Miami,Site-I,Cabinet
+13,LOC-NE-001,-95.894,41.2667,Nebraska,Omaha,Site-H,Towers
+14,LOC-NJ-001,-74.2086,40.8826,New Jersey,Newark,Site-U,HQ
+15,LOC-MA-003,-71.0035,42.463,Massachusetts,Boston,Site-Y,Building
+16,LOC-MA-004,-70.9624,42.4516,Massachusetts,Boston,Site-M,Office
+17,LOC-CA-004,-118.3304,34.1851,California,Los Angeles,Site-W,Room
+18,LOC-AZ-001,-112.0274,33.4171,Arizona,Phoenix,Site-U,Headends
+19,LOC-WA-001,-122.4026,47.5302,Washington,Seattle,Site-R,HQ
+20,LOC-OH-001,-82.9247,39.9397,Ohio,Columbus,Site-S,Warehouse
+21,LOC-MO-001,-90.2836,38.7763,Missouri,St. Louis,Site-Q,Headends
+22,LOC-CA-005,-122.3427,37.8832,California,San Francisco,Site-E,Towers
+23,LOC-IN-002,-86.1292,39.7338,Indiana,Indianapolis,Site-T,Headends
+24,LOC-AL-001,-86.8771,33.5346,Alabama,Birmingham,Site-A,Cabinet
+25,LOC-SC-001,-79.8558,32.8571,South Carolina,Charleston,Site-K,Cabinet
+26,LOC-NC-001,-80.8627,35.2132,North Carolina,Charlotte,Site-X,Office
+27,LOC-LA-001,-89.9929,29.9534,Louisiana,New Orleans,Site-D,Office
+28,LOC-LA-002,-90.0388,29.847,Louisiana,New Orleans,Site-Y,Towers
+29,LOC-SC-002,-79.7951,32.9032,South Carolina,Charleston,Site-A,Room
+30,LOC-KY-001,-85.9027,38.3814,Kentucky,Louisville,Site-Z,Office
+31,LOC-PA-001,-75.2978,40.066,Pennsylvania,Philadelphia,Site-C,Cabinet
+32,LOC-KY-002,-85.6637,38.3961,Kentucky,Louisville,Site-R,Towers
+33,LOC-CO-001,-104.9424,39.8733,Colorado,Denver,Site-F,Office
+34,LOC-AL-002,-86.6908,33.4955,Alabama,Birmingham,Site-G,HQ
+35,LOC-GA-001,-84.3241,33.7187,Georgia,Atlanta,Site-V,Room
+36,LOC-MD-001,-76.4923,39.2758,Maryland,Baltimore,Site-H,Data Center
+37,LOC-CA-006,-118.2923,34.0787,California,Los Angeles,Site-H,Data Center
+38,LOC-NY-001,-74.1347,40.7521,New York,New York City,Site-H,Cabinet
+39,LOC-TX-003,-96.6891,32.648,Texas,Dallas,Site-H,Office
+40,LOC-KY-003,-85.8442,38.1424,Kentucky,Louisville,Site-S,Headends
+41,LOC-PA-002,-75.0798,40.0448,Pennsylvania,Philadelphia,Site-G,Cabinet
+42,LOC-CA-007,-117.1134,32.672,California,San Diego,Site-N,Headends
+43,LOC-TX-004,-95.3178,29.9056,Texas,Houston,Site-D,Building
+44,LOC-WI-001,-87.838,43.1291,Wisconsin,Milwaukee,Site-D,Data Center
+45,LOC-GA-002,-84.4809,33.7336,Georgia,Atlanta,Site-N,Towers
+46,LOC-MI-001,-83.057,42.4437,Michigan,Detroit,Site-C,Headends
+47,LOC-CT-003,-72.8057,41.8093,Connecticut,Hartford,Site-R,Building
+48,LOC-CA-008,-122.2915,37.8795,California,San Francisco,Site-F,Warehouse
+49,LOC-KY-004,-85.7641,38.3621,Kentucky,Louisville,Site-B,Towers
+50,LOC-MN-001,-93.4144,44.9449,Minnesota,Minneapolis,Site-Z,Headends
+51,LOC-NC-002,-80.8662,35.3643,North Carolina,Charlotte,Site-Z,HQ
+52,LOC-KY-005,-85.8621,38.1917,Kentucky,Louisville,Site-B,HQ
+53,LOC-TX-005,-95.2954,29.6275,Texas,Houston,Site-S,Headends
+54,LOC-LA-003,-89.9457,29.9604,Louisiana,New Orleans,Site-B,HQ
+55,LOC-CA-009,-122.314,37.6455,California,San Francisco,Site-C,Data Center
+56,LOC-WI-002,-88.0205,43.156,Wisconsin,Milwaukee,Site-H,Building
+57,LOC-NM-001,-106.7758,35.1316,New Mexico,Albuquerque,Site-S,HQ
+58,LOC-NV-001,-115.0094,36.0812,Nevada,Las Vegas,Site-W,Room
+59,LOC-PA-003,-75.2355,39.8419,Pennsylvania,Philadelphia,Site-U,Office
+60,LOC-NJ-002,-74.2275,40.8113,New Jersey,Newark,Site-C,Building
+61,LOC-NJ-003,-74.1361,40.7546,New Jersey,Newark,Site-D,Cabinet
+62,LOC-SC-003,-80.0172,32.7061,South Carolina,Charleston,Site-L,Cabinet
+63,LOC-PA-004,-75.2043,39.8499,Pennsylvania,Philadelphia,Site-R,Office
+64,LOC-NM-002,-106.5052,35.1765,New Mexico,Albuquerque,Site-Q,Building
+65,LOC-CT-004,-72.7453,41.8127,Connecticut,Hartford,Site-E,Office
+66,LOC-IL-002,-87.5129,41.9508,Illinois,Chicago,Site-E,Office
+67,LOC-NC-003,-80.8117,35.2924,North Carolina,Charlotte,Site-G,Office
+68,LOC-LA-004,-90.0749,30.0727,Louisiana,New Orleans,Site-B,Cabinet
+69,LOC-IN-003,-86.0593,39.6316,Indiana,Indianapolis,Site-K,Towers
+70,LOC-OH-002,-83.1003,39.9438,Ohio,Columbus,Site-W,Warehouse
+71,LOC-CT-005,-72.8322,41.6363,Connecticut,Hartford,Site-W,Towers
+72,LOC-SC-004,-80.0703,32.7373,South Carolina,Charleston,Site-R,Towers
+73,LOC-IN-004,-86.2699,39.7109,Indiana,Indianapolis,Site-Z,Building
+74,LOC-TN-001,-86.8686,36.0876,Tennessee,Nashville,Site-D,Room
+75,LOC-CT-006,-72.5699,41.7356,Connecticut,Hartford,Site-T,Towers
+76,LOC-PA-005,-75.0558,40.0955,Pennsylvania,Philadelphia,Site-Z,Towers
+77,LOC-UT-001,-112.0336,40.8318,Utah,Salt Lake City,Site-K,Warehouse
+78,LOC-PA-006,-75.2352,40.0388,Pennsylvania,Philadelphia,Site-D,Warehouse
+79,LOC-TX-006,-96.6894,32.6934,Texas,Dallas,Site-O,Room
+80,LOC-VA-001,-77.3398,37.6521,Virginia,Richmond,Site-H,Building
+81,LOC-GA-003,-84.4185,33.6826,Georgia,Atlanta,Site-C,Office
+82,LOC-TN-002,-86.7392,36.1326,Tennessee,Nashville,Site-R,Room
+83,LOC-TX-007,-97.8585,30.4083,Texas,Austin,Site-F,Office
+84,LOC-TX-008,-96.9145,32.7571,Texas,Dallas,Site-X,Room
+85,LOC-IN-005,-86.1262,39.7718,Indiana,Indianapolis,Site-M,Data Center
+86,LOC-OH-003,-83.1355,39.942,Ohio,Columbus,Site-Q,HQ
+87,LOC-GA-004,-84.4287,33.62,Georgia,Atlanta,Site-V,Room
+88,LOC-NM-003,-106.7062,35.1888,New Mexico,Albuquerque,Site-X,Office
+89,LOC-LA-005,-90.1287,29.9236,Louisiana,New Orleans,Site-M,Office
+90,LOC-CT-007,-72.7969,41.7398,Connecticut,Hartford,Site-M,Towers
+91,LOC-NM-004,-106.6297,35.0562,New Mexico,Albuquerque,Site-A,Office
+92,LOC-NC-004,-80.93,35.3128,North Carolina,Charlotte,Site-T,Room
+93,LOC-NJ-004,-74.1899,40.7884,New Jersey,Newark,Site-Q,Headends
+94,LOC-FL-002,-80.1441,25.6968,Florida,Miami,Site-V,Room
+95,LOC-CA-010,-122.3239,37.8502,California,San Francisco,Site-V,Office
+96,LOC-MA-005,-70.9669,42.2543,Massachusetts,Boston,Site-B,Data Center
+97,LOC-OK-001,-97.483,35.5481,Oklahoma,Oklahoma City,Site-O,Warehouse
+98,LOC-IA-001,-93.7008,41.6457,Iowa,Des Moines,Site-P,Warehouse
+99,LOC-PA-007,-75.2709,40.0089,Pennsylvania,Philadelphia,Site-Y,Cabinet
+100,LOC-IN-006,-86.2424,39.8596,Indiana,Indianapolis,Site-W,HQ
+101,LOC-NJ-005,-74.3073,40.6605,New Jersey,Newark,Site-D,Headends
+102,LOC-CO-002,-104.8999,39.7895,Colorado,Denver,Site-R,Room
+103,LOC-MD-002,-76.5784,39.3562,Maryland,Baltimore,Site-Q,Warehouse
+104,LOC-CT-008,-72.7013,41.6614,Connecticut,Hartford,Site-P,Headends
+105,LOC-OH-004,-82.9233,40.0632,Ohio,Columbus,Site-I,HQ
+106,LOC-KY-006,-85.7205,38.1851,Kentucky,Louisville,Site-C,Office
+107,LOC-PA-008,-75.2337,39.8985,Pennsylvania,Philadelphia,Site-R,Cabinet
+108,LOC-CO-003,-105.0951,39.7041,Colorado,Denver,Site-E,Data Center
+109,LOC-CA-011,-118.2692,34.0015,California,Los Angeles,Site-O,Warehouse
+110,LOC-TX-009,-95.4577,29.7364,Texas,Houston,Site-Y,Building
+111,LOC-IA-002,-93.645,41.4386,Iowa,Des Moines,Site-L,Office
+112,LOC-MN-002,-93.159,45.1138,Minnesota,Minneapolis,Site-N,HQ
+113,LOC-SC-005,-79.8411,32.8958,South Carolina,Charleston,Site-P,Data Center
+114,LOC-MI-002,-83.065,42.1901,Michigan,Detroit,Site-K,Warehouse
+115,LOC-FL-003,-80.0896,25.8876,Florida,Miami,Site-T,HQ
+116,LOC-TX-010,-97.621,30.2948,Texas,Austin,Site-V,Building
+117,LOC-CA-012,-122.3766,37.6656,California,San Francisco,Site-O,Towers
+118,LOC-TX-011,-95.4418,29.7086,Texas,Houston,Site-O,Room
+119,LOC-OR-001,-122.5981,45.4789,Oregon,Portland,Site-Y,Warehouse
+120,LOC-OH-005,-82.8983,39.9523,Ohio,Columbus,Site-X,HQ
+121,LOC-TX-012,-95.2198,29.7154,Texas,Houston,Site-U,Cabinet
+122,LOC-TX-013,-96.7207,32.9116,Texas,Dallas,Site-G,Building
+123,LOC-NM-005,-106.7547,34.9723,New Mexico,Albuquerque,Site-V,Cabinet
+124,LOC-IA-003,-93.4748,41.5763,Iowa,Des Moines,Site-I,Room
+125,LOC-FL-004,-80.16,25.9008,Florida,Miami,Site-W,Cabinet
+126,LOC-FL-005,-80.0524,25.6441,Florida,Miami,Site-A,Office
+127,LOC-IA-004,-93.5559,41.7243,Iowa,Des Moines,Site-M,Data Center
+128,LOC-CA-013,-118.2161,34.1514,California,Los Angeles,Site-H,Cabinet
+129,LOC-VA-002,-77.3309,37.5708,Virginia,Richmond,Site-D,Building
+130,LOC-TN-003,-86.7718,36.2112,Tennessee,Nashville,Site-C,HQ
+131,LOC-OR-002,-122.8227,45.4912,Oregon,Portland,Site-P,Cabinet
+132,LOC-IN-007,-86.0199,39.8091,Indiana,Indianapolis,Site-O,Towers
+133,LOC-IN-008,-86.2553,39.7749,Indiana,Indianapolis,Site-U,Office
+134,LOC-NM-006,-106.5579,35.0959,New Mexico,Albuquerque,Site-P,Headends
+135,LOC-IN-009,-86.0604,39.7961,Indiana,Indianapolis,Site-K,Data Center
+136,LOC-CA-014,-122.4857,37.7601,California,San Francisco,Site-Y,Headends
+137,LOC-IA-005,-93.576,41.5505,Iowa,Des Moines,Site-A,Headends
+138,LOC-NV-002,-115.2352,36.0835,Nevada,Las Vegas,Site-Z,Office
+139,LOC-OR-003,-122.7426,45.544,Oregon,Portland,Site-I,HQ
+140,LOC-NY-002,-74.001,40.6201,New York,New York City,Site-H,Warehouse
+141,LOC-KY-007,-85.7419,38.1748,Kentucky,Louisville,Site-P,Headends
+142,LOC-MD-003,-76.5243,39.1683,Maryland,Baltimore,Site-H,Warehouse
+143,LOC-PA-009,-75.2233,39.9771,Pennsylvania,Philadelphia,Site-P,HQ
+144,LOC-AL-003,-86.8494,33.6676,Alabama,Birmingham,Site-R,Room
+145,LOC-TN-004,-86.7207,36.094,Tennessee,Nashville,Site-I,Data Center
+146,LOC-IL-003,-87.5634,41.8228,Illinois,Chicago,Site-X,HQ
+147,LOC-FL-006,-81.4717,28.6099,Florida,Orlando,Site-I,HQ
+148,LOC-NE-002,-95.9996,41.1367,Nebraska,Omaha,Site-G,Office
+149,LOC-MA-006,-71.1006,42.3008,Massachusetts,Boston,Site-W,HQ
+150,LOC-CO-004,-105.058,39.8815,Colorado,Denver,Site-R,Office
+151,LOC-CO-005,-104.9489,39.815,Colorado,Denver,Site-D,Building
+152,LOC-IA-006,-93.6738,41.5804,Iowa,Des Moines,Site-K,Towers
+153,LOC-TX-014,-95.4441,29.8689,Texas,Houston,Site-D,Cabinet
+154,LOC-WI-003,-87.909,43.062,Wisconsin,Milwaukee,Site-V,Building
+155,LOC-WA-002,-122.4373,47.6251,Washington,Seattle,Site-J,Cabinet
+156,LOC-PA-010,-75.2797,40.0319,Pennsylvania,Philadelphia,Site-T,Data Center
+157,LOC-AL-004,-86.8384,33.6412,Alabama,Birmingham,Site-J,Warehouse
+158,LOC-VA-003,-77.4154,37.4088,Virginia,Richmond,Site-X,Cabinet
+159,LOC-AZ-002,-112.0363,33.3778,Arizona,Phoenix,Site-C,Towers
+160,LOC-PA-011,-75.2631,39.8251,Pennsylvania,Philadelphia,Site-A,Warehouse
+161,LOC-MD-004,-76.5554,39.2814,Maryland,Baltimore,Site-B,Data Center
+162,LOC-NC-005,-80.781,35.288,North Carolina,Charlotte,Site-O,Cabinet
+163,LOC-MA-007,-70.9317,42.4464,Massachusetts,Boston,Site-U,Data Center
+164,LOC-IN-010,-86.2737,39.6858,Indiana,Indianapolis,Site-E,Office
+165,LOC-WA-003,-122.4607,47.506,Washington,Seattle,Site-J,Office
+166,LOC-MD-005,-76.7249,39.347,Maryland,Baltimore,Site-W,Warehouse
+167,LOC-MI-003,-83.0457,42.3295,Michigan,Detroit,Site-C,Building
+168,LOC-IN-011,-86.0877,39.7995,Indiana,Indianapolis,Site-A,Cabinet
+169,LOC-MA-008,-70.9203,42.4609,Massachusetts,Boston,Site-S,Building
+170,LOC-MI-004,-83.0229,42.4103,Michigan,Detroit,Site-F,Headends
+171,LOC-AL-005,-86.757,33.6434,Alabama,Birmingham,Site-F,Warehouse
+172,LOC-KY-008,-85.6178,38.2437,Kentucky,Louisville,Site-N,Room
+173,LOC-NV-003,-115.0888,36.2772,Nevada,Las Vegas,Site-K,Warehouse
+174,LOC-KY-009,-85.822,38.3863,Kentucky,Louisville,Site-Y,HQ
+175,LOC-TX-015,-96.8106,32.7211,Texas,Dallas,Site-K,Cabinet
+176,LOC-WI-004,-87.797,43.1364,Wisconsin,Milwaukee,Site-A,HQ
+177,LOC-NJ-006,-74.1984,40.642,New Jersey,Newark,Site-L,Headends
+178,LOC-MD-006,-76.5342,39.2015,Maryland,Baltimore,Site-R,Towers
+179,LOC-NC-006,-80.8617,35.2866,North Carolina,Charlotte,Site-D,Building
+180,LOC-NE-003,-95.8447,41.3194,Nebraska,Omaha,Site-J,HQ
+181,LOC-NY-003,-73.9903,40.5908,New York,New York City,Site-D,Headends
+182,LOC-IL-004,-87.5855,41.7743,Illinois,Chicago,Site-W,Office
+183,LOC-LA-006,-90.0099,29.9257,Louisiana,New Orleans,Site-P,Headends
+184,LOC-PA-012,-75.1782,39.846,Pennsylvania,Philadelphia,Site-G,HQ
+185,LOC-CO-006,-104.8811,39.6721,Colorado,Denver,Site-Z,Warehouse
+186,LOC-OR-004,-122.5462,45.5175,Oregon,Portland,Site-A,Office
+187,LOC-VA-004,-77.3348,37.5647,Virginia,Richmond,Site-V,Headends
+188,LOC-WA-004,-122.3481,47.6015,Washington,Seattle,Site-K,HQ
+189,LOC-SC-006,-79.9679,32.9064,South Carolina,Charleston,Site-G,Data Center
+190,LOC-IA-007,-93.6442,41.6936,Iowa,Des Moines,Site-N,Building
+191,LOC-NV-004,-115.0664,36.2315,Nevada,Las Vegas,Site-Z,Warehouse
+192,LOC-MN-003,-93.1185,45.0655,Minnesota,Minneapolis,Site-U,Towers
+193,LOC-KY-010,-85.6191,38.1406,Kentucky,Louisville,Site-S,Room
+194,LOC-CA-015,-117.0488,32.6978,California,San Diego,Site-Q,Headends
+195,LOC-NY-004,-73.9393,40.6858,New York,New York City,Site-U,Towers
+196,LOC-CA-016,-118.2529,34.193,California,Los Angeles,Site-K,Warehouse
+197,LOC-CA-017,-122.3139,37.8806,California,San Francisco,Site-R,Warehouse
+198,LOC-NV-005,-115.1018,36.2861,Nevada,Las Vegas,Site-P,HQ
+199,LOC-TX-016,-96.7618,32.6971,Texas,Dallas,Site-V,Office
+200,LOC-MA-009,-70.9849,42.3403,Massachusetts,Boston,Site-D,Cabinet
+201,LOC-MD-007,-76.7123,39.2302,Maryland,Baltimore,Site-A,Building
+202,LOC-NV-006,-115.051,36.1079,Nevada,Las Vegas,Site-L,Warehouse
+203,LOC-WA-005,-122.4088,47.5798,Washington,Seattle,Site-V,Towers
+204,LOC-FL-007,-80.2893,25.7945,Florida,Miami,Site-M,Data Center
+205,LOC-KY-011,-85.6347,38.1456,Kentucky,Louisville,Site-O,Office
+206,LOC-NJ-007,-74.2458,40.5885,New Jersey,Newark,Site-Z,Headends
+207,LOC-NC-007,-80.7898,35.1245,North Carolina,Charlotte,Site-O,Room
+208,LOC-KS-001,-97.3978,37.8258,Kansas,Wichita,Site-W,Office
+209,LOC-NJ-008,-74.0688,40.6455,New Jersey,Newark,Site-M,Headends
+210,LOC-CA-018,-117.2399,32.7373,California,San Diego,Site-S,Office
+211,LOC-NC-008,-80.9865,35.3261,North Carolina,Charlotte,Site-M,Office
+212,LOC-NY-005,-73.9862,40.7685,New York,New York City,Site-X,Building
+213,LOC-NE-004,-95.8609,41.3564,Nebraska,Omaha,Site-J,Data Center
+214,LOC-NE-005,-95.8439,41.1722,Nebraska,Omaha,Site-G,Office
+215,LOC-CO-007,-104.9518,39.8602,Colorado,Denver,Site-U,Building
+216,LOC-VA-005,-77.3494,37.4007,Virginia,Richmond,Site-L,Towers
+217,LOC-CA-019,-122.2965,37.7229,California,San Francisco,Site-N,Towers
+218,LOC-GA-005,-84.4984,33.7608,Georgia,Atlanta,Site-L,HQ
+219,LOC-LA-007,-89.9475,30.0502,Louisiana,New Orleans,Site-I,Headends
+220,LOC-NC-009,-80.7691,35.1787,North Carolina,Charlotte,Site-D,Headends
+221,LOC-CA-020,-118.3515,34.1922,California,Los Angeles,Site-V,Warehouse
+222,LOC-CT-009,-72.7254,41.8509,Connecticut,Hartford,Site-A,Office
+223,LOC-SC-007,-80.044,32.7371,South Carolina,Charleston,Site-X,Office
+224,LOC-KS-002,-97.3732,37.7288,Kansas,Wichita,Site-L,Cabinet
+225,LOC-MA-010,-71.0675,42.396,Massachusetts,Boston,Site-R,Room
+226,LOC-NM-007,-106.734,34.9534,New Mexico,Albuquerque,Site-O,Office
+227,LOC-UT-002,-112.006,40.6244,Utah,Salt Lake City,Site-B,Office
+228,LOC-KY-012,-85.8737,38.1731,Kentucky,Louisville,Site-R,Towers
+229,LOC-MN-004,-93.2789,45.0289,Minnesota,Minneapolis,Site-X,HQ
+230,LOC-UT-003,-111.8648,40.8288,Utah,Salt Lake City,Site-N,Cabinet
+231,LOC-KY-013,-85.7238,38.3844,Kentucky,Louisville,Site-I,Building
+232,LOC-MO-002,-90.2842,38.6104,Missouri,St. Louis,Site-H,Room
+233,LOC-CA-021,-117.0168,32.6759,California,San Diego,Site-U,Room
+234,LOC-TX-017,-95.4004,29.6673,Texas,Houston,Site-D,Headends
+235,LOC-CA-022,-122.3706,37.8174,California,San Francisco,Site-T,Building
+236,LOC-TX-018,-95.2838,29.6835,Texas,Houston,Site-E,Data Center
+237,LOC-CA-023,-118.1448,34.0685,California,Los Angeles,Site-S,Data Center
+238,LOC-MA-011,-71.1103,42.2544,Massachusetts,Boston,Site-T,Building
+239,LOC-MI-005,-82.9383,42.2248,Michigan,Detroit,Site-E,HQ
+240,LOC-OH-006,-82.9092,39.8442,Ohio,Columbus,Site-A,Towers
+241,LOC-NY-006,-74.0485,40.7993,New York,New York City,Site-S,Room
+242,LOC-TX-019,-97.8408,30.1329,Texas,Austin,Site-X,Warehouse
+243,LOC-AL-006,-86.9184,33.3877,Alabama,Birmingham,Site-O,Room
+244,LOC-LA-008,-90.0434,29.9367,Louisiana,New Orleans,Site-H,Building
+245,LOC-AL-007,-86.862,33.5616,Alabama,Birmingham,Site-A,Building
+246,LOC-OK-002,-97.4122,35.4455,Oklahoma,Oklahoma City,Site-D,Headends
+247,LOC-MD-008,-76.7402,39.1646,Maryland,Baltimore,Site-T,Towers
+248,LOC-CA-024,-118.3558,34.0895,California,Los Angeles,Site-S,HQ
+249,LOC-NV-007,-115.1755,36.1991,Nevada,Las Vegas,Site-J,Headends
+250,LOC-LA-009,-90.0399,29.8309,Louisiana,New Orleans,Site-W,Cabinet
+251,LOC-CT-010,-72.6188,41.6782,Connecticut,Hartford,Site-O,Data Center
+252,LOC-UT-004,-111.9393,40.7468,Utah,Salt Lake City,Site-N,Cabinet
+253,LOC-NV-008,-115.1618,36.2194,Nevada,Las Vegas,Site-L,Towers
+254,LOC-OK-003,-97.6463,35.5671,Oklahoma,Oklahoma City,Site-C,Warehouse
+255,LOC-CA-025,-117.0877,32.6775,California,San Diego,Site-E,HQ
+256,LOC-TX-020,-95.3439,29.7789,Texas,Houston,Site-K,Cabinet
+257,LOC-UT-005,-111.9349,40.8104,Utah,Salt Lake City,Site-Y,Warehouse
+258,LOC-TX-021,-95.2293,29.7905,Texas,Houston,Site-L,Cabinet
+259,LOC-IA-008,-93.6069,41.4832,Iowa,Des Moines,Site-P,Data Center
+260,LOC-CA-026,-117.2061,32.7326,California,San Diego,Site-D,Office
+261,LOC-IA-009,-93.6913,41.5655,Iowa,Des Moines,Site-R,HQ
+262,LOC-TX-022,-97.7104,30.3145,Texas,Austin,Site-W,Office
+263,LOC-TX-023,-97.839,30.328,Texas,Austin,Site-J,Room
+264,LOC-TN-005,-86.9298,36.2737,Tennessee,Nashville,Site-S,Warehouse
+265,LOC-CA-027,-118.3511,34.0922,California,Los Angeles,Site-A,Cabinet
+266,LOC-AL-008,-86.888,33.4945,Alabama,Birmingham,Site-K,Towers
+267,LOC-MO-003,-90.2559,38.5743,Missouri,St. Louis,Site-S,Cabinet
+268,LOC-TX-024,-95.4731,29.8367,Texas,Houston,Site-B,Cabinet
+269,LOC-MI-006,-83.0629,42.3086,Michigan,Detroit,Site-T,Headends
+270,LOC-UT-006,-111.959,40.8373,Utah,Salt Lake City,Site-D,Room
+271,LOC-IN-012,-86.2748,39.8219,Indiana,Indianapolis,Site-S,Headends
+272,LOC-AL-009,-86.7524,33.3822,Alabama,Birmingham,Site-M,Building
+273,LOC-NY-007,-74.0947,40.8464,New York,New York City,Site-Y,Towers
+274,LOC-OH-007,-83.062,39.8472,Ohio,Columbus,Site-P,Warehouse
+275,LOC-FL-008,-81.4904,28.5481,Florida,Orlando,Site-H,HQ
+276,LOC-CT-011,-72.5851,41.8556,Connecticut,Hartford,Site-C,Warehouse
+277,LOC-TX-025,-96.8161,32.7646,Texas,Dallas,Site-C,Room
+278,LOC-IA-010,-93.6303,41.5581,Iowa,Des Moines,Site-U,Warehouse
+279,LOC-NC-010,-80.9585,35.0834,North Carolina,Charlotte,Site-K,Towers
+280,LOC-NM-008,-106.6624,35.1413,New Mexico,Albuquerque,Site-L,Cabinet
+281,LOC-IN-013,-86.0548,39.6914,Indiana,Indianapolis,Site-S,Warehouse
+282,LOC-AL-010,-86.9289,33.6298,Alabama,Birmingham,Site-X,Room
+283,LOC-MA-012,-71.109,42.2605,Massachusetts,Boston,Site-Q,Cabinet
+284,LOC-AL-011,-86.7995,33.6404,Alabama,Birmingham,Site-L,Room
+285,LOC-WA-006,-122.4112,47.5001,Washington,Seattle,Site-G,Towers
+286,LOC-NE-006,-96.0386,41.3342,Nebraska,Omaha,Site-C,Towers
+287,LOC-KY-014,-85.7693,38.2718,Kentucky,Louisville,Site-S,Headends
+288,LOC-IA-011,-93.5662,41.7328,Iowa,Des Moines,Site-K,Room
+289,LOC-WA-007,-122.3502,47.5969,Washington,Seattle,Site-U,Office
+290,LOC-MI-007,-83.0184,42.287,Michigan,Detroit,Site-C,Office
+291,LOC-NJ-009,-74.1868,40.6028,New Jersey,Newark,Site-J,Cabinet
+292,LOC-CA-028,-122.3849,37.777,California,San Francisco,Site-O,HQ
+293,LOC-TX-026,-96.8121,32.8696,Texas,Dallas,Site-U,Data Center
+294,LOC-NV-009,-115.1083,36.1703,Nevada,Las Vegas,Site-B,Headends
+295,LOC-CA-029,-117.0678,32.8169,California,San Diego,Site-W,Cabinet
+296,LOC-LA-010,-90.0277,29.8128,Louisiana,New Orleans,Site-W,Headends
+297,LOC-MD-009,-76.605,39.3233,Maryland,Baltimore,Site-L,Room
+298,LOC-NC-011,-80.8769,35.3094,North Carolina,Charlotte,Site-V,Building
+299,LOC-OR-005,-122.8067,45.3936,Oregon,Portland,Site-V,Warehouse
+300,LOC-NC-012,-80.9175,35.3326,North Carolina,Charlotte,Site-T,Towers
+301,LOC-OR-006,-122.802,45.5643,Oregon,Portland,Site-L,Office
+302,LOC-WI-005,-88.0178,43.1016,Wisconsin,Milwaukee,Site-C,Office
+303,LOC-CT-012,-72.7221,41.8512,Connecticut,Hartford,Site-E,HQ
+304,LOC-CA-030,-122.3756,37.7519,California,San Francisco,Site-L,Building
+305,LOC-MO-004,-90.2567,38.7624,Missouri,St. Louis,Site-K,Headends
+306,LOC-GA-006,-84.47,33.6403,Georgia,Atlanta,Site-C,Office
+307,LOC-CA-031,-117.1588,32.7276,California,San Diego,Site-X,HQ
+308,LOC-TX-027,-96.7484,32.8896,Texas,Dallas,Site-T,Towers
+309,LOC-NE-007,-95.9715,41.1552,Nebraska,Omaha,Site-W,Towers
+310,LOC-MD-010,-76.7491,39.2497,Maryland,Baltimore,Site-X,Data Center
+311,LOC-MD-011,-76.579,39.3661,Maryland,Baltimore,Site-Z,Headends
+312,LOC-MA-013,-71.0487,42.3029,Massachusetts,Boston,Site-Z,Headends
+313,LOC-GA-007,-84.4276,33.8831,Georgia,Atlanta,Site-O,Headends
+314,LOC-NC-013,-80.7597,35.228,North Carolina,Charlotte,Site-N,Towers
+315,LOC-GA-008,-84.2976,33.6405,Georgia,Atlanta,Site-I,Building
+316,LOC-OK-004,-97.4042,35.484,Oklahoma,Oklahoma City,Site-D,HQ
+317,LOC-IL-005,-87.6943,41.957,Illinois,Chicago,Site-I,Headends
+318,LOC-LA-011,-90.1773,29.9323,Louisiana,New Orleans,Site-H,Headends
+319,LOC-TN-006,-86.6525,36.1372,Tennessee,Nashville,Site-M,HQ
+320,LOC-MO-005,-90.2787,38.7754,Missouri,St. Louis,Site-L,Data Center
+321,LOC-TX-028,-97.7975,30.1469,Texas,Austin,Site-W,Room
+322,LOC-WA-008,-122.4408,47.5423,Washington,Seattle,Site-P,Towers
+323,LOC-OK-005,-97.5318,35.3192,Oklahoma,Oklahoma City,Site-C,Building
+324,LOC-OH-008,-83.0841,39.8561,Ohio,Columbus,Site-X,HQ
+325,LOC-IN-014,-86.2747,39.7048,Indiana,Indianapolis,Site-J,Cabinet
+326,LOC-TX-029,-95.4483,29.8021,Texas,Houston,Site-T,Headends
+327,LOC-CA-032,-118.3604,34.1737,California,Los Angeles,Site-T,HQ
+328,LOC-TX-030,-97.7035,30.2897,Texas,Austin,Site-W,Towers
+329,LOC-NC-014,-80.8643,35.2615,North Carolina,Charlotte,Site-H,Warehouse
+330,LOC-FL-009,-81.3299,28.414,Florida,Orlando,Site-L,Cabinet
+331,LOC-AL-012,-86.7893,33.6045,Alabama,Birmingham,Site-Q,HQ
+332,LOC-TX-031,-97.776,30.2582,Texas,Austin,Site-U,Warehouse
+333,LOC-MO-006,-90.2733,38.4819,Missouri,St. Louis,Site-Z,Cabinet
+334,LOC-TN-007,-86.8593,36.2098,Tennessee,Nashville,Site-D,Room
+335,LOC-CO-008,-105.127,39.753,Colorado,Denver,Site-U,Towers
+336,LOC-NJ-010,-74.0282,40.7293,New Jersey,Newark,Site-F,Towers
+337,LOC-CA-033,-118.1789,34.1853,California,Los Angeles,Site-B,Office
+338,LOC-GA-009,-84.5249,33.6588,Georgia,Atlanta,Site-B,Room
+339,LOC-VA-006,-77.4314,37.6874,Virginia,Richmond,Site-R,Headends
+340,LOC-OH-009,-83.1378,40.0053,Ohio,Columbus,Site-J,Room
+341,LOC-TX-032,-95.2601,29.71,Texas,Houston,Site-D,Room
+342,LOC-IN-015,-86.0413,39.8414,Indiana,Indianapolis,Site-M,Room
+343,LOC-FL-010,-81.3803,28.5376,Florida,Orlando,Site-Z,HQ
+344,LOC-MI-008,-82.9555,42.3995,Michigan,Detroit,Site-C,Warehouse
+345,LOC-NE-008,-95.786,41.1606,Nebraska,Omaha,Site-J,Room
+346,LOC-CA-034,-117.2871,32.764,California,San Diego,Site-J,Headends
+347,LOC-NE-009,-95.8692,41.1565,Nebraska,Omaha,Site-O,Room
+348,LOC-MD-012,-76.7495,39.4014,Maryland,Baltimore,Site-L,Warehouse
+349,LOC-MI-009,-83.004,42.4188,Michigan,Detroit,Site-B,Cabinet
+350,LOC-WI-006,-87.9475,43.1292,Wisconsin,Milwaukee,Site-V,Towers
+351,LOC-TX-033,-97.8503,30.2995,Texas,Austin,Site-Z,Headends
+352,LOC-TX-034,-96.9091,32.6975,Texas,Dallas,Site-U,Room
+353,LOC-MO-007,-90.2345,38.6472,Missouri,St. Louis,Site-T,Towers
+354,LOC-MD-013,-76.4776,39.252,Maryland,Baltimore,Site-Y,Cabinet
+355,LOC-IA-012,-93.7178,41.5469,Iowa,Des Moines,Site-K,Office
+356,LOC-PA-013,-75.027,39.8104,Pennsylvania,Philadelphia,Site-F,Headends
+357,LOC-AL-013,-86.8364,33.5371,Alabama,Birmingham,Site-I,Office
+358,LOC-MD-014,-76.6978,39.324,Maryland,Baltimore,Site-W,Headends
+359,LOC-GA-010,-84.5012,33.8548,Georgia,Atlanta,Site-O,Towers
+360,LOC-MD-015,-76.463,39.3836,Maryland,Baltimore,Site-K,Room
+361,LOC-CA-035,-118.2287,33.9893,California,Los Angeles,Site-J,Towers
+362,LOC-FL-011,-81.2911,28.5409,Florida,Orlando,Site-D,Data Center
+363,LOC-CO-009,-105.0693,39.7374,Colorado,Denver,Site-L,HQ
+364,LOC-IA-013,-93.6484,41.6779,Iowa,Des Moines,Site-R,Towers
+365,LOC-NM-009,-106.5351,34.9541,New Mexico,Albuquerque,Site-M,Headends
+366,LOC-AL-014,-86.8293,33.4914,Alabama,Birmingham,Site-S,Cabinet
+367,LOC-CO-010,-104.8486,39.7819,Colorado,Denver,Site-O,Headends
+368,LOC-AL-015,-86.8491,33.632,Alabama,Birmingham,Site-Y,HQ
+369,LOC-KS-003,-97.4329,37.8271,Kansas,Wichita,Site-N,HQ
+370,LOC-TX-035,-95.2704,29.7658,Texas,Houston,Site-J,Towers
+371,LOC-FL-012,-80.245,25.8245,Florida,Miami,Site-L,HQ
+372,LOC-NC-015,-80.7393,35.1523,North Carolina,Charlotte,Site-U,HQ
+373,LOC-MI-010,-83.1582,42.2722,Michigan,Detroit,Site-R,Cabinet
+374,LOC-LA-012,-90.0292,29.9786,Louisiana,New Orleans,Site-S,Towers
+375,LOC-FL-013,-80.1442,25.8279,Florida,Miami,Site-T,Room
+376,LOC-IA-014,-93.7467,41.6959,Iowa,Des Moines,Site-C,Building
+377,LOC-IA-015,-93.6797,41.5,Iowa,Des Moines,Site-S,Warehouse
+378,LOC-NM-010,-106.6087,35.0838,New Mexico,Albuquerque,Site-U,HQ
+379,LOC-NC-016,-80.8005,35.1677,North Carolina,Charlotte,Site-H,Warehouse
+380,LOC-VA-007,-77.4499,37.5973,Virginia,Richmond,Site-F,Headends
+381,LOC-UT-007,-111.8957,40.672,Utah,Salt Lake City,Site-T,Towers
+382,LOC-NV-010,-115.0314,36.1157,Nevada,Las Vegas,Site-L,Warehouse
+383,LOC-CO-011,-104.9121,39.7437,Colorado,Denver,Site-D,Room
+384,LOC-PA-014,-75.1753,39.8828,Pennsylvania,Philadelphia,Site-H,Towers
+385,LOC-CA-036,-117.2959,32.8493,California,San Diego,Site-T,Warehouse
+386,LOC-PA-015,-75.0264,40.0733,Pennsylvania,Philadelphia,Site-K,Room
+387,LOC-GA-011,-84.3091,33.7485,Georgia,Atlanta,Site-Q,Headends
+388,LOC-KY-015,-85.6448,38.2519,Kentucky,Louisville,Site-C,Warehouse
+389,LOC-LA-013,-90.0843,29.8733,Louisiana,New Orleans,Site-S,Room
+390,LOC-TX-036,-95.5046,29.7589,Texas,Houston,Site-U,Headends
+391,LOC-NC-017,-80.8321,35.3313,North Carolina,Charlotte,Site-N,Towers
+392,LOC-OH-010,-82.9305,40.0404,Ohio,Columbus,Site-L,Building
+393,LOC-WI-007,-88.0412,43.0574,Wisconsin,Milwaukee,Site-L,HQ
+394,LOC-NC-018,-80.971,35.2284,North Carolina,Charlotte,Site-Y,HQ
+395,LOC-MI-011,-82.9482,42.3684,Michigan,Detroit,Site-T,Cabinet
+396,LOC-CO-012,-104.8478,39.7074,Colorado,Denver,Site-Z,Room
+397,LOC-CT-013,-72.5534,41.8402,Connecticut,Hartford,Site-G,HQ
+398,LOC-WI-008,-87.9065,42.9025,Wisconsin,Milwaukee,Site-E,Room
+399,LOC-OK-006,-97.5106,35.3623,Oklahoma,Oklahoma City,Site-Q,Towers
+400,LOC-NV-011,-115.0104,36.1155,Nevada,Las Vegas,Site-M,Office
+401,LOC-KS-004,-97.3866,37.7857,Kansas,Wichita,Site-R,Headends
+402,LOC-IA-016,-93.6692,41.6815,Iowa,Des Moines,Site-L,Room
+403,LOC-IL-006,-87.4858,41.9032,Illinois,Chicago,Site-Z,Building
+404,LOC-NE-010,-95.9421,41.3966,Nebraska,Omaha,Site-Z,Data Center
+405,LOC-TX-037,-95.3447,29.6616,Texas,Houston,Site-U,Warehouse
+406,LOC-WA-009,-122.2356,47.5289,Washington,Seattle,Site-S,Cabinet
+407,LOC-GA-012,-84.5323,33.6931,Georgia,Atlanta,Site-E,Warehouse
+408,LOC-AZ-003,-112.1009,33.5309,Arizona,Phoenix,Site-P,Building
+409,LOC-CO-013,-104.9847,39.7575,Colorado,Denver,Site-V,Headends
+410,LOC-AL-016,-86.8395,33.6556,Alabama,Birmingham,Site-O,HQ
+411,LOC-OR-007,-122.6626,45.568,Oregon,Portland,Site-X,Office
+412,LOC-NM-011,-106.6551,35.2216,New Mexico,Albuquerque,Site-I,HQ
+413,LOC-VA-008,-77.5185,37.6826,Virginia,Richmond,Site-J,Office
+414,LOC-AZ-004,-112.0169,33.4451,Arizona,Phoenix,Site-P,Room
+415,LOC-CT-014,-72.555,41.8523,Connecticut,Hartford,Site-I,Office
+416,LOC-IL-007,-87.6078,41.8911,Illinois,Chicago,Site-M,Room
+417,LOC-WA-010,-122.395,47.5425,Washington,Seattle,Site-W,Cabinet
+418,LOC-TN-008,-86.6544,36.2095,Tennessee,Nashville,Site-X,Headends
+419,LOC-AZ-005,-112.1634,33.46,Arizona,Phoenix,Site-R,Office
+420,LOC-CO-014,-105.1075,39.8115,Colorado,Denver,Site-H,Data Center
+421,LOC-TX-038,-95.3188,29.7697,Texas,Houston,Site-U,Data Center
+422,LOC-TX-039,-95.4897,29.7095,Texas,Houston,Site-P,Cabinet
+423,LOC-CO-015,-105.1387,39.7543,Colorado,Denver,Site-F,Warehouse
+424,LOC-OK-007,-97.5232,35.3774,Oklahoma,Oklahoma City,Site-J,Room
+425,LOC-NC-019,-80.7993,35.3495,North Carolina,Charlotte,Site-C,Data Center
+426,LOC-SC-008,-79.8595,32.8816,South Carolina,Charleston,Site-B,Towers
+427,LOC-UT-008,-111.7763,40.6635,Utah,Salt Lake City,Site-B,Warehouse
+428,LOC-KY-016,-85.8526,38.3274,Kentucky,Louisville,Site-J,Building
+429,LOC-NY-008,-74.0665,40.7436,New York,New York City,Site-K,Office
+430,LOC-NJ-011,-74.0257,40.7487,New Jersey,Newark,Site-P,Towers
+431,LOC-LA-014,-90.0811,29.8589,Louisiana,New Orleans,Site-D,Room
+432,LOC-FL-014,-80.1225,25.8062,Florida,Miami,Site-W,Towers
+433,LOC-NY-009,-73.935,40.8,New York,New York City,Site-S,Data Center
+434,LOC-FL-015,-81.3459,28.5799,Florida,Orlando,Site-M,Warehouse
+435,LOC-LA-015,-90.1231,29.9213,Louisiana,New Orleans,Site-D,Towers
+436,LOC-CO-016,-104.9971,39.8699,Colorado,Denver,Site-A,Office
+437,LOC-MN-005,-93.3443,45.0539,Minnesota,Minneapolis,Site-K,Office
+438,LOC-KS-005,-97.2706,37.5406,Kansas,Wichita,Site-U,Room
+439,LOC-PA-016,-75.2966,39.8381,Pennsylvania,Philadelphia,Site-J,Towers
+440,LOC-WI-009,-87.8507,43.1658,Wisconsin,Milwaukee,Site-W,Office
+441,LOC-IL-008,-87.5882,42.0103,Illinois,Chicago,Site-L,Data Center
+442,LOC-MA-014,-70.9217,42.3536,Massachusetts,Boston,Site-O,Room
+443,LOC-UT-009,-111.8304,40.8846,Utah,Salt Lake City,Site-Y,HQ
+444,LOC-AZ-006,-111.9954,33.5025,Arizona,Phoenix,Site-T,Cabinet
+445,LOC-AL-017,-86.8185,33.5797,Alabama,Birmingham,Site-C,Cabinet
+446,LOC-TX-040,-95.2712,29.8813,Texas,Houston,Site-G,HQ
+447,LOC-WA-011,-122.4327,47.7125,Washington,Seattle,Site-O,Cabinet
+448,LOC-AZ-007,-112.0089,33.445,Arizona,Phoenix,Site-Q,Headends
+449,LOC-TX-041,-95.3838,29.7644,Texas,Houston,Site-O,Building
+450,LOC-CT-015,-72.6964,41.8558,Connecticut,Hartford,Site-X,Building
+451,LOC-WI-010,-87.9802,42.8898,Wisconsin,Milwaukee,Site-G,Cabinet
+452,LOC-TX-042,-96.8199,32.8368,Texas,Dallas,Site-R,Building
+453,LOC-CA-037,-118.0979,34.0438,California,Los Angeles,Site-J,Warehouse
+454,LOC-FL-016,-81.2985,28.618,Florida,Orlando,Site-X,Warehouse
+455,LOC-MO-008,-90.0515,38.5917,Missouri,St. Louis,Site-M,Warehouse
+456,LOC-CA-038,-122.3646,37.8234,California,San Francisco,Site-R,Towers
+457,LOC-TN-009,-86.896,36.3106,Tennessee,Nashville,Site-M,HQ
+458,LOC-CO-017,-104.9219,39.656,Colorado,Denver,Site-A,Building
+459,LOC-VA-009,-77.4471,37.6064,Virginia,Richmond,Site-N,HQ
+460,LOC-MN-006,-93.168,44.9021,Minnesota,Minneapolis,Site-L,Towers
+461,LOC-MI-012,-83.1393,42.444,Michigan,Detroit,Site-Y,Cabinet
+462,LOC-TX-043,-96.7042,32.7525,Texas,Dallas,Site-Y,Building
+463,LOC-PA-017,-75.2534,39.8329,Pennsylvania,Philadelphia,Site-B,Headends
+464,LOC-NE-011,-95.8829,41.3682,Nebraska,Omaha,Site-H,Building
+465,LOC-WI-011,-87.9248,43.0508,Wisconsin,Milwaukee,Site-Y,Building
+466,LOC-CO-018,-104.9891,39.676,Colorado,Denver,Site-X,Room
+467,LOC-IA-017,-93.5797,41.6386,Iowa,Des Moines,Site-K,Data Center
+468,LOC-VA-010,-77.3231,37.6864,Virginia,Richmond,Site-Q,Data Center
+469,LOC-UT-010,-111.9508,40.6291,Utah,Salt Lake City,Site-S,Towers
+470,LOC-IN-016,-86.1413,39.6325,Indiana,Indianapolis,Site-L,Warehouse
+471,LOC-AL-018,-86.8569,33.4935,Alabama,Birmingham,Site-E,Office
+472,LOC-MN-007,-93.3598,44.9892,Minnesota,Minneapolis,Site-H,Data Center
+473,LOC-VA-011,-77.3287,37.434,Virginia,Richmond,Site-O,Building
+474,LOC-CT-016,-72.7113,41.7387,Connecticut,Hartford,Site-Q,Towers
+475,LOC-MN-008,-93.3421,44.8888,Minnesota,Minneapolis,Site-U,Cabinet
+476,LOC-MD-016,-76.5081,39.1681,Maryland,Baltimore,Site-X,Data Center
+477,LOC-TX-044,-95.4393,29.8125,Texas,Houston,Site-T,Building
+478,LOC-CA-039,-118.3373,34.1307,California,Los Angeles,Site-X,HQ
+479,LOC-AZ-008,-112.0802,33.5592,Arizona,Phoenix,Site-K,Office
+480,LOC-NY-010,-74.0925,40.6198,New York,New York City,Site-X,Cabinet
+481,LOC-OK-008,-97.3921,35.5263,Oklahoma,Oklahoma City,Site-W,Data Center
+482,LOC-WI-012,-87.782,43.0545,Wisconsin,Milwaukee,Site-Y,Office
+483,LOC-MN-009,-93.2751,45.0224,Minnesota,Minneapolis,Site-J,Office
+484,LOC-MO-009,-90.1956,38.6262,Missouri,St. Louis,Site-D,Headends
+485,LOC-NV-012,-115.0155,36.1311,Nevada,Las Vegas,Site-N,Building
+486,LOC-IA-018,-93.4999,41.6592,Iowa,Des Moines,Site-A,Office
+487,LOC-CT-017,-72.5547,41.7874,Connecticut,Hartford,Site-N,Office
+488,LOC-WA-012,-122.4232,47.5252,Washington,Seattle,Site-S,Data Center
+489,LOC-KY-017,-85.7433,38.3857,Kentucky,Louisville,Site-K,Office
+490,LOC-KY-018,-85.6185,38.2952,Kentucky,Louisville,Site-P,Headends
+491,LOC-FL-017,-80.122,25.7174,Florida,Miami,Site-E,HQ
+492,LOC-KY-019,-85.8533,38.3695,Kentucky,Louisville,Site-U,Building
+493,LOC-AL-019,-86.9424,33.6226,Alabama,Birmingham,Site-V,Building
+494,LOC-NY-011,-74.0323,40.8156,New York,New York City,Site-H,Cabinet
+495,LOC-WA-013,-122.4794,47.6079,Washington,Seattle,Site-L,Building
+496,LOC-NM-012,-106.6091,35.2146,New Mexico,Albuquerque,Site-P,Headends
+497,LOC-TX-045,-97.8911,30.2827,Texas,Austin,Site-A,Building
+498,LOC-AL-020,-86.7358,33.5293,Alabama,Birmingham,Site-J,Building
+499,LOC-LA-016,-89.9776,30.0033,Louisiana,New Orleans,Site-Z,Towers
+500,LOC-CA-040,-117.0357,32.723,California,San Diego,Site-H,Data Center

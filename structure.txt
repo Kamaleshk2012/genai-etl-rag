@@ -1,0 +1,45 @@
+genai-etl-rag/
+│
+├── app/
+│ ├── api/ # FastAPI routes
+│ │ ├── routes.py
+│ │ └── dependencies.py
+│ │
+│ ├── core/ # Configuration & settings
+│ │ ├── config.py
+│ │ └── logging.py
+│ │
+│ ├── services/ # Business logic
+│ │ ├── ingestion_service.py
+│ │ ├── transformation_service.py
+│ │ ├── rag_service.py
+│ │ └── llm_service.py
+│ │
+│ ├── models/ # Pydantic models
+│ │ ├── request_models.py
+│ │ └── response_models.py
+│ │
+│ ├── utils/ # Helper functions
+│ │ ├── file_parser.py
+│ │ ├── chunking.py
+│ │ └── schema_mapper.py
+│ │
+│ ├── db/ # Vector DB / storage
+│ │ ├── faiss_store.py
+│ │ └── embedding.py
+│ │
+│ └── main.py # FastAPI app entry
+│
+├── data/ # Sample/test data
+│ ├── device.csv
+│ └── location.csv
+│
+├── prompts/ # LLM prompts
+│ └── transform_prompt.txt
+│
+├── tests/ # Unit tests
+│
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
